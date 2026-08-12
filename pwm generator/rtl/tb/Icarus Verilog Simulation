@@ -1,0 +1,1 @@
+iverilog -o pwm_sim rtl/pwm_generator.v tb/pwm_generator_tb.vgtkwave waveform.vcd
